@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color: #8b8b8b;
+  color: #333;
+}
+
+header {
+  background-color: #040f40;
+  color: #feffee;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #feffee;
+  padding: 2rem;
+  border-radius: 30px;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+header h1 {
+  font-family: "Playfair Display";
+  font-size: 3cap;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+header p {
+  letter-spacing: 1.5px;
+}
